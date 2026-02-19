@@ -75,13 +75,14 @@ Enable Add Python to PATH
 
 Open Command Prompt
 
-cmd
+# cmd
 Copy code
-git clone https://github.com/hussaini021/Network_Analyzer.git
+```git clone https://github.com/hussaini021/Network_Analyzer.git
 cd Network_Analyzer
 pip install -r requirements.txt
 python run.py
-📦 Python Dependencies
+```
+# 📦 Python Dependencies
 All required libraries are listed in requirements.txt.
 
 text
@@ -110,9 +111,11 @@ This project is intended for educational and defensive security purposes only.
 
 Do NOT use this tool on networks you do not own or have explicit permission to analyze.
 
-The author is not responsible for misuse.
-```
-###👤 Author
+**The author is not responsible for misuse.**
+
+
+# 👤 Author
+
  **Hussaini Murtaza**
 GitHub: https://github.com/hussaini021
 
