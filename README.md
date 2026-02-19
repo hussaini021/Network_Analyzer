@@ -66,7 +66,8 @@ git clone https://github.com/hussaini021/Network_Analyzer.git
 cd Network_Analyzer
 pip3 install -r requirements.txt
 python3 run.py
-🪟 Windows
+
+### 🪟 Windows
 Download Python from https://www.python.org/downloads/
 
 Enable Add Python to PATH
@@ -97,30 +98,24 @@ time
 
 datetime
 
-📸 Screenshots
-Create a folder named screenshots in the repository and add your images there.
-
-Example usage in README:
-
-
 ## 📸 Screenshots
 
 ### Main Menu
 ![Main Menu](https://github.com/hussaini021/Network_Analyzer/blob/main/Screenshot.png)
 
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 This project is intended for educational and defensive security purposes only.
 
 Do NOT use this tool on networks you do not own or have explicit permission to analyze.
 
 The author is not responsible for misuse.
 
-👤 Author
-Hussaini Murtaza
+###👤 Author
+ **Hussaini Murtaza**
 GitHub: https://github.com/hussaini021
 
-⭐ Support
+### ⭐ Support
 If you find this project useful:
 
 Star the repository
