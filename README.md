@@ -67,3 +67,62 @@ cd Network_Analyzer
 pip3 install -r requirements.txt
 python3 run.py
 ----
+```
+# 🪟 Windows
+Download Python from https://www.python.org/downloads/
+
+Enable Add Python to PATH
+
+Open Command Prompt
+
+cmd
+Copy code
+git clone https://github.com/hussaini021/Network_Analyzer.git
+cd Network_Analyzer
+pip install -r requirements.txt
+python run.py
+📦 Python Dependencies
+All required libraries are listed in requirements.txt.
+
+text
+Copy code
+colorama
+Built-in modules used:
+
+socket
+
+threading
+
+os
+
+time
+
+datetime
+
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](https://github.com/hussaini021/Network_Analyzer/blob/main/Screenshot.png)
+
+
+### ⚠️ Disclaimer
+This project is intended for educational and defensive security purposes only.
+
+Do NOT use this tool on networks you do not own or have explicit permission to analyze.
+
+The author is not responsible for misuse.
+```
+###👤 Author
+ **Hussaini Murtaza**
+GitHub: https://github.com/hussaini021
+
+### ⭐ Support
+If you find this project useful:
+
+Star the repository
+
+Share it on LinkedIn
+
+Use it for learning and practice
+
+
