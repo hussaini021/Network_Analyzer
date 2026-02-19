@@ -77,7 +77,8 @@ Open Command Prompt
 
 # cmd
 Copy code
-```git clone https://github.com/hussaini021/Network_Analyzer.git
+```bash
+git clone https://github.com/hussaini021/Network_Analyzer.git
 cd Network_Analyzer
 pip install -r requirements.txt
 python run.py
@@ -116,9 +117,10 @@ Do NOT use this tool on networks you do not own or have explicit permission to a
 
 # 👤 Author
 
- **Hussaini Murtaza**
-GitHub: https://github.com/hussaini021
-
+ **Murtaza Hussaini**
+ **Student at Kabul University**
+1.GitHub: https://github.com/hussaini021
+2.Linkedin: https://www.linkedin.com/in/hussaini-murtaza021 
 ### ⭐ Support
 If you find this project useful:
 
