@@ -62,10 +62,10 @@ This tool automatically lists and explains available interfaces.
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/hussaini021/network-analyzer.git
-cd network-analyzer
+git clone https://github.com/hussaini021/Network_Analyzer.git
+cd Network_Analyzer
 pip3 install -r requirements.txt
-python3 network_guard_pro.py
+python3 run.py
 🪟 Windows
 Download Python from https://www.python.org/downloads/
 
@@ -106,7 +106,7 @@ Example usage in README:
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](Screenshot.png)
+![Main Menu](https://github.com/hussaini021/Network_Analyzer/blob/main/Screenshot.png)
 
 
 ⚠️ Disclaimer
